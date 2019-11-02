@@ -1,6 +1,6 @@
 /* Body styling */
 body {
-  background: #42b8e3;
+  background: #85c1e9;
   color: #fff;
   font-family: Trebuchet, Georgia;
   font-size: 30px;
@@ -14,7 +14,7 @@ body {
 
 /* Heading Styles */
 h1 {<https://github.com/iaretzi-ford/MASH-Game/blob/master/normalize.css>
-  font-size: 60px;
+  font-size: 55px;
   color: #eaed2;
   text-align: center;
 }
@@ -65,8 +65,8 @@ h1 {<https://github.com/iaretzi-ford/MASH-Game/blob/master/normalize.css>
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #713e94;
-  font-size: 18px;
+  color: #f4d03f;
+  font-size: 20px;
   margin: 15px 4%;
   outline: 0;
   padding: 16px 0;
@@ -92,7 +92,7 @@ h1 {<https://github.com/iaretzi-ford/MASH-Game/blob/master/normalize.css>
   margin: 60px 0;
   background: #fff;
   border-radius: 6px;
-  color: #713e94;
+  color: #8e44ad;
   transition: 1s linear;
 }
 
