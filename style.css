@@ -8,7 +8,7 @@ body {
   line-height: 1.65em;
   margin: 0 auto;
   max-width: 960px;
-  padding: 40px 10px;  
+  padding: 40px 10px;
 }
 
 
@@ -33,13 +33,13 @@ h1 {<https://github.com/iaretzi-ford/MASH-Game/blob/master/normalize.css>
   border: 3px solid #fff;
   border-radius: 6px;
   color: #fff;
-  cursor: pointer; 
+  cursor: pointer;
   display: block;
   font-size: 20px;
-  font-weight: bold;  
+  font-weight: bold;
   margin: 0 auto 60px;
-  padding: 1em 2em; 
-  text-align: center; 
+  padding: 1em 2em;
+  text-align: center;
 }
 
 .bucket {
@@ -71,7 +71,7 @@ h1 {<https://github.com/iaretzi-ford/MASH-Game/blob/master/normalize.css>
   outline: 0;
   padding: 16px 0;
   text-indent: 20px;
-  width: 92%;  
+  width: 92%;
 }
 
 .choice-bucket label ~ input {
